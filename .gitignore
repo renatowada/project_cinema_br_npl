@@ -1,8 +1,3 @@
-scrap.ipynb
-data.ipynb
-critics.ipynb
-synopsis.ipynb
 .env
 venv/
-raw/
-processed/
+
