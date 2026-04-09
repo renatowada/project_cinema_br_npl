@@ -1,0 +1,2894 @@
+[
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2014,
+        "award_category": [
+            "filme",
+            "diretor",
+            "roteiro",
+            "música"
+        ],
+        "title": "Ausência",
+        "directed by": " Chico Teixeira",
+        "duration": 87,
+        "rating": 3.26,
+        "vote_count": 444,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2014,
+        "award_category": [
+            "ator",
+            "júri da crítica"
+        ],
+        "title": "O Último Cine Drive-in",
+        "directed by": "Iberê Carvalho",
+        "duration": 100,
+        "rating": 3.34,
+        "vote_count": 891,
+        "type": "lm",
+        "genre": [
+            "Comédia",
+            "Drama",
+            "Família"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2015,
+        "award_category": [
+            "ator",
+            "fotografia"
+        ],
+        "title": "Um Homem Só",
+        "directed by": "Cláudia Jouvin",
+        "duration": 88,
+        "rating": 3.26,
+        "vote_count": 579,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Ficção",
+            "Romance"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2014,
+        "award_category": [
+            "júri popular"
+        ],
+        "title": "O Outro Lado do Paraíso",
+        "directed by": "André Ristum",
+        "duration": 100,
+        "rating": 3.37,
+        "vote_count": 170,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "História"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2016,
+        "award_category": [
+            "montagem"
+        ],
+        "title": "Ponto Zero",
+        "directed by": "José Pedro Goulart",
+        "duration": 84,
+        "rating": 3.2,
+        "vote_count": 560,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2015,
+        "award_category": [
+            "filme",
+            "fotografia"
+        ],
+        "title": "O corpo",
+        "directed by": "Lucas Cassales",
+        "duration": 17,
+        "rating": 3.25,
+        "vote_count": 24,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2015,
+        "award_category": [
+            "diretor"
+        ],
+        "title": "O Teto Sobre Nós",
+        "directed by": "Bruno Carboni",
+        "duration": 22,
+        "rating": 3.44,
+        "vote_count": 32,
+        "type": "cm",
+        "genre": [
+            "Crime",
+            "Mistério"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2015,
+        "award_category": [
+            "ator",
+            "roteiro"
+        ],
+        "title": "Quando Parei de Me Preocupar com Canalhas",
+        "directed by": "Tiago Vieira",
+        "duration": 15,
+        "rating": 3.49,
+        "vote_count": 330,
+        "type": "cm",
+        "genre": [
+            "Comédia",
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2015,
+        "award_category": [
+            "júri popular"
+        ],
+        "title": "Bá",
+        "directed by": "Leandro Tadashi",
+        "duration": 14,
+        "rating": 3.77,
+        "vote_count": 56,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Família"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2015,
+        "award_category": [
+            "júri da crítica"
+        ],
+        "title": "Dá Licença de Contar",
+        "directed by": "Pedro Serrano",
+        "duration": 17,
+        "rating": 3.49,
+        "vote_count": 245,
+        "type": "cm",
+        "genre": [
+            "Comédia",
+            "Drama",
+            "Música"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2015,
+        "release_year": 2015,
+        "award_category": [
+            "direção de arte",
+            "música"
+        ],
+        "title": "Miss & Grubs",
+        "directed by": [
+            "Camila Kamimura",
+            "Jonas Brandão"
+        ],
+        "duration": 10,
+        "rating": 4.17,
+        "vote_count": 3,
+        "type": "cm",
+        "genre": [
+            "Animação"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2016,
+        "release_year": 2016,
+        "award_category": [
+            "filme",
+            "diretor",
+            "música"
+        ],
+        "title": "Barata Ribeiro, 716",
+        "directed by": "Domingos de Oliveira",
+        "duration": 85,
+        "rating": 3.42,
+        "vote_count": 378,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2016,
+        "release_year": 2016,
+        "award_category": [
+            "ator",
+            "montagem",
+            "júri popular"
+        ],
+        "title": "Elis",
+        "directed by": "Hugo Prata",
+        "duration": 110,
+        "rating": 3.32,
+        "vote_count": 18744,
+        "type": "lm",
+        "genre": [
+            "Biografia",
+            "Drama",
+            "Música"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2016,
+        "release_year": 2016,
+        "award_category": [
+            "ator",
+            "roteiro",
+            "fotografia",
+            "direção de arte"
+        ],
+        "title": "O Roubo da Taça",
+        "directed by": "Caito Ortiz",
+        "duration": 90,
+        "rating": 3.28,
+        "vote_count": 948,
+        "type": "lm",
+        "genre": [
+            "Comédia",
+            "História"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2016,
+        "release_year": 2016,
+        "award_category": [
+            "júri da crítica",
+            "especial do júri"
+        ],
+        "title": "O Silêncio do Céu",
+        "directed by": "Marco Dutra",
+        "duration": 102,
+        "rating": 3.35,
+        "vote_count": 2681,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Suspense"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2016,
+        "release_year": 2016,
+        "award_category": [
+            "filme",
+            "roteiro",
+            "especial do júri"
+        ],
+        "title": "Rosinha",
+        "directed by": "Gui Campos",
+        "duration": 15,
+        "rating": 3.68,
+        "vote_count": 42,
+        "type": "cm",
+        "genre": [
+            "Comédia",
+            "Drama",
+            "Família",
+            "Romance"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2016,
+        "release_year": 2016,
+        "award_category": [
+            "diretor",
+            "ator"
+        ],
+        "title": "Aqueles Cinco Segundos",
+        "directed by": "Felipe Saleme",
+        "duration": 15,
+        "rating": 2.86,
+        "vote_count": 11,
+        "type": "cm",
+        "genre": [
+            "Comédia",
+            "Romance"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2016,
+        "release_year": 2016,
+        "award_category": [
+            "ator"
+        ],
+        "title": "O Que Teria Acontecido ou Não Naquela Calma e Misteriosa Tarde de Domingo no Jardim Zoológico",
+        "directed by": [
+            "Gugu Seppi",
+            "Allan Souza Lima"
+        ],
+        "duration": 15,
+        "rating": 3.17,
+        "vote_count": 18,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2016,
+        "release_year": 2016,
+        "award_category": [
+            "fotografia"
+        ],
+        "title": "Horas",
+        "directed by": "Boca Migotto",
+        "duration": 13,
+        "rating": 3.3,
+        "vote_count": 10,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2016,
+        "release_year": 2016,
+        "award_category": [
+            "música",
+            "júri popular",
+            "especial do júri"
+        ],
+        "title": "Super Oldboy",
+        "directed by": [
+            "Rafaella Costa",
+            "Eliane Coster"
+        ],
+        "duration": 15,
+        "rating": 2.9,
+        "vote_count": 30,
+        "type": "cm",
+        "genre": [
+            "Comédia"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "filme",
+            "diretor",
+            "ator",
+            "montagem"
+        ],
+        "title": "Como Nossos Pais",
+        "directed by": "Laís Bodanzky",
+        "duration": 102,
+        "rating": 3.44,
+        "vote_count": 8678,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "roteiro",
+            "direção de arte",
+            "júri da crítica"
+        ],
+        "title": "As Duas Irenes",
+        "directed by": "Fabio Meira",
+        "duration": 89,
+        "rating": 3.45,
+        "vote_count": 8598,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "fotografia",
+            "música"
+        ],
+        "title": "O Matador",
+        "directed by": "Marcelo Galvão",
+        "duration": 107,
+        "rating": 2.8,
+        "vote_count": 1769,
+        "type": "lm",
+        "genre": [
+            "Faroeste"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "júri popular",
+            "especial do júri"
+        ],
+        "title": "Bio",
+        "directed by": "Carlos Gerbase",
+        "duration": 105,
+        "rating": 2.65,
+        "vote_count": 82,
+        "type": "lm",
+        "genre": [
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2016,
+        "award_category": [
+            "filme",
+            "montagem",
+            "júri popular"
+        ],
+        "title": "A Gis",
+        "directed by": "Thiago Carvalhaes",
+        "duration": 20,
+        "rating": 4.14,
+        "vote_count": 113,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "diretor"
+        ],
+        "title": "Tailor",
+        "directed by": "Tomas Cali",
+        "duration": 10,
+        "rating": 3.61,
+        "vote_count": 83,
+        "type": "cm",
+        "genre": [
+            "Animação",
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "ator"
+        ],
+        "title": "O Espirito do Bosque",
+        "directed by": "Carla Saavedra Brychcy",
+        "duration": 15,
+        "rating": 3.38,
+        "vote_count": 8,
+        "type": "cm",
+        "genre": [
+            "Família",
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "ator",
+            "fotografia"
+        ],
+        "title": "Telentrega",
+        "directed by": "Roberto Burd",
+        "duration": 10,
+        "rating": 3.3,
+        "vote_count": 15,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2016,
+        "award_category": [
+            "roteiro"
+        ],
+        "title": "Postergados",
+        "directed by": "Carolina Markowicz",
+        "duration": 17,
+        "rating": 3.36,
+        "vote_count": 632,
+        "type": "cm",
+        "genre": [
+            "Comédia",
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "música",
+            "direção de arte"
+        ],
+        "title": "O Violeiro Fantasma",
+        "directed by": "Wesley Rodrigues",
+        "duration": 7,
+        "rating": 3.42,
+        "vote_count": 53,
+        "type": "cm",
+        "genre": [
+            "Animação"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "júri da crítica"
+        ],
+        "title": "O Quebra-Cabeça de Sara",
+        "directed by": "Allan Ribeiro",
+        "duration": 10,
+        "rating": 3.81,
+        "vote_count": 74,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2017,
+        "release_year": 2017,
+        "award_category": [
+            "especial do júri"
+        ],
+        "title": "Cabelo Bom",
+        "directed by": "Swahili Vidal",
+        "duration": 15,
+        "rating": 3.66,
+        "vote_count": 29,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2019,
+        "award_category": [
+            "música",
+            "direção de arte",
+            "fotografia"
+        ],
+        "title": "Simonal",
+        "directed by": "Leonardo Domingues",
+        "duration": 105,
+        "rating": 3.25,
+        "vote_count": 2067,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2018,
+        "award_category": [
+            "montagem",
+            "diretor"
+        ],
+        "title": "A Voz do Silêncio",
+        "directed by": "André Ristum",
+        "duration": 98,
+        "rating": 3.18,
+        "vote_count": 342,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2018,
+        "award_category": [
+            "roteiro",
+            "filme"
+        ],
+        "title": "Ferrugem",
+        "directed by": "Aly Muritiba",
+        "duration": 100,
+        "rating": 2.98,
+        "vote_count": 1775,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2018,
+        "award_category": [
+            "ator"
+        ],
+        "title": "10 Segundos para Vencer",
+        "directed by": "José Alvarenga Jr.",
+        "duration": 122,
+        "rating": 3.27,
+        "vote_count": 386,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "História"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2018,
+        "award_category": [
+            "ator",
+            "júri popular",
+            "júri da crítica"
+        ],
+        "title": "Benzinho",
+        "directed by": "Gustavo Pizzi",
+        "duration": 95,
+        "rating": 3.75,
+        "vote_count": 8905,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2017,
+        "award_category": [
+            "júri da crítica",
+            "direção de arte",
+            "júri popular"
+        ],
+        "title": "Torre",
+        "directed by": "Nádia Mangolini",
+        "duration": 20,
+        "rating": 3.77,
+        "vote_count": 373,
+        "type": "cm",
+        "genre": [
+            "Documentário",
+            "Animação"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2017,
+        "award_category": [
+            "música",
+            "roteiro",
+            "ator"
+        ],
+        "title": "A Retirada para um Coração Bruto",
+        "directed by": "Marco Antônio Pereira",
+        "duration": 15,
+        "rating": 3.55,
+        "vote_count": 233,
+        "type": "cm",
+        "genre": [
+            "Ficção",
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2018,
+        "award_category": [
+            "montagem"
+        ],
+        "title": "Aquarela",
+        "directed by": [
+            "Thiago Kistenmacker",
+            "Al Danuzio"
+        ],
+        "duration": 15,
+        "rating": 3.43,
+        "vote_count": 23,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2017,
+        "award_category": [
+            "fotografia"
+        ],
+        "title": "Nova Iorque",
+        "directed by": "Leo Tabosa",
+        "duration": 24,
+        "rating": 3.71,
+        "vote_count": 124,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2018,
+        "award_category": [
+            "ator"
+        ],
+        "title": "Catadora de Gente",
+        "directed by": "Mirela Kruel",
+        "duration": 18,
+        "rating": 3.82,
+        "vote_count": 73,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2016,
+        "award_category": [
+            "especial do júri"
+        ],
+        "title": "Estamos Todos Aqui",
+        "directed by": [
+            "Rafael Mellim",
+            "Chica Andrade"
+        ],
+        "duration": 19,
+        "rating": 3.72,
+        "vote_count": 418,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2018,
+        "award_category": [
+            "diretor"
+        ],
+        "title": "Kairo",
+        "directed by": "Fabio Rodrigo",
+        "duration": 15,
+        "rating": 3.41,
+        "vote_count": 100,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2018,
+        "release_year": 2018,
+        "award_category": [
+            "filme"
+        ],
+        "title": "Guaxuma",
+        "directed by": "Nara Normande",
+        "duration": 14,
+        "rating": 4.1,
+        "vote_count": 2808,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Animação"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "filme",
+            "diretor",
+            "ator",
+            "roteiro",
+            "júri popular"
+        ],
+        "title": "Pacarrete",
+        "directed by": "Allan Deberton",
+        "duration": 97,
+        "rating": 3.71,
+        "vote_count": 7373,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "ator",
+            "música"
+        ],
+        "title": "O Homem Cordial",
+        "directed by": "Iberê Carvalho",
+        "duration": 83,
+        "rating": 3.1,
+        "vote_count": 743,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Suspense"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "fotografia"
+        ],
+        "title": "Raia 4",
+        "directed by": "Emiliano Cunha",
+        "duration": 97,
+        "rating": 3.34,
+        "vote_count": 292,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "montagem"
+        ],
+        "title": "Hebe: A Estrela do Brasil",
+        "directed by": "Maurício Farias",
+        "duration": 112,
+        "rating": 3.28,
+        "vote_count": 3315,
+        "type": "lm",
+        "genre": [
+            "História",
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "direção de arte"
+        ],
+        "title": "Veneza",
+        "directed by": "Miguel Falabella",
+        "duration": 90,
+        "rating": 3.2,
+        "vote_count": 567,
+        "type": "lm",
+        "genre": [
+            "Romance",
+            "Drama",
+            "Comédia"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "especial do júri"
+        ],
+        "title": "30 Anos Blues",
+        "directed by": "Andradina Azevedo e Dida Andrade",
+        "duration": 80,
+        "rating": 2.57,
+        "vote_count": 58,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "filme"
+        ],
+        "title": "Apneia",
+        "directed by": "Carol Sakura e Walkir Fernandes",
+        "duration": 15,
+        "rating": 4.21,
+        "vote_count": 172,
+        "type": "cm",
+        "genre": [
+            "Animação",
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2018,
+        "award_category": [
+            "diretor"
+        ],
+        "title": "Menino Pássaro",
+        "directed by": "Diogo Leite",
+        "duration": 15,
+        "rating": 3.44,
+        "vote_count": 62,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "ator",
+            "especial do júri"
+        ],
+        "title": "Marie",
+        "directed by": "Leo Tabosa",
+        "duration": 24,
+        "rating": 3.94,
+        "vote_count": 161,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "ator"
+        ],
+        "title": "A Mulher que Sou",
+        "directed by": "Nathália Tereza",
+        "duration": 15,
+        "rating": 3.58,
+        "vote_count": 128,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "roteiro"
+        ],
+        "title": "O Véu de Amani",
+        "directed by": "Renata Diniz",
+        "duration": 15,
+        "rating": 3.28,
+        "vote_count": 60,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "fotografia"
+        ],
+        "title": "A Ética das Hienas",
+        "directed by": "Rodolpho de Barros",
+        "duration": 20,
+        "rating": 3.4,
+        "vote_count": 45,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "montagem"
+        ],
+        "title": "Invasão Espacial",
+        "directed by": "Thiago Foresti",
+        "duration": 14,
+        "rating": 4.6,
+        "vote_count": 21,
+        "type": "cm",
+        "genre": [
+            "Ficção",
+            "Suspense"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2018,
+        "award_category": [
+            "música"
+        ],
+        "title": "Teoria Sobre um Planeta Estranho",
+        "directed by": "Marco Antônio Pereira",
+        "duration": 13,
+        "rating": 3.42,
+        "vote_count": 90,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Romance",
+            "Comédia"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2019,
+        "release_year": 2019,
+        "award_category": [
+            "direção de arte"
+        ],
+        "title": "Sangro",
+        "directed by": "Tiago Minamisawa, Bruno H Castro e Guto BR",
+        "duration": 8,
+        "rating": 3.6,
+        "vote_count": 285,
+        "type": "cm",
+        "genre": [
+            "Documentário",
+            "Animação"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "filme",
+            "ator",
+            "música",
+            "júri popular"
+        ],
+        "title": "King Kong en Asunción",
+        "directed by": "Camilo Cavalcante",
+        "duration": 90,
+        "rating": 3.36,
+        "vote_count": 262,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "diretor",
+            "fotografia"
+        ],
+        "title": "Aos Pedaços",
+        "directed by": "Ruy Guerra",
+        "duration": 93,
+        "rating": 3.08,
+        "vote_count": 273,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "ator",
+            "roteiro",
+            "direção de arte",
+            "júri da crítica"
+        ],
+        "title": "Um Animal Amarelo",
+        "directed by": "Felipe Bragança",
+        "duration": 115,
+        "rating": 3.29,
+        "vote_count": 550,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "montagem"
+        ],
+        "title": "Me Chama Que Eu Vou",
+        "directed by": "Joana Mariani",
+        "duration": 70,
+        "rating": 3.4,
+        "vote_count": 190,
+        "type": "lm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "música"
+        ],
+        "title": "Todos os Mortos",
+        "directed by": "Caetano Gotardo e Marco Dutra",
+        "duration": 120,
+        "rating": 3.13,
+        "vote_count": 1301,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "História"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "filme",
+            "diretor",
+            "fotografia",
+            "direção de arte",
+            "júri popular"
+        ],
+        "title": "O Barco e O Rio",
+        "directed by": "Bernardo Ale Abinader",
+        "duration": 17,
+        "rating": 3.52,
+        "vote_count": 164,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "ator",
+            "montagem"
+        ],
+        "title": "Você tem Olhos Tristes",
+        "directed by": "Diogo Leite",
+        "duration": 18,
+        "rating": 2.91,
+        "vote_count": 113,
+        "type": "cm",
+        "genre": [
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "ator",
+            "roteiro",
+            "júri da crítica"
+        ],
+        "title": "Inabitável",
+        "directed by": "Matheus Farias e Enock Carvalho",
+        "duration": 20,
+        "rating": 3.62,
+        "vote_count": 797,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "música"
+        ],
+        "title": "Atordoado, Eu Permaneço Atento",
+        "directed by": "Henrique Amud e Lucas H. Rossi",
+        "duration": 15,
+        "rating": 3.66,
+        "vote_count": 150,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2020,
+        "release_year": 2020,
+        "award_category": [
+            "especial do júri"
+        ],
+        "title": "Receita de Caranguejo",
+        "directed by": "Issis Valenzuela",
+        "duration": 19,
+        "rating": 3.0,
+        "vote_count": 156,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2021,
+        "award_category": [
+            "filme",
+            "música",
+            "direção de arte",
+            "especial do júri"
+        ],
+        "title": "Carro Rei",
+        "directed by": "Renata Pinheiro",
+        "duration": 99,
+        "rating": 2.92,
+        "vote_count": 1547,
+        "type": "lm",
+        "genre": [
+            "Comédia",
+            "Drama",
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2021,
+        "award_category": [
+            "diretor",
+            "roteiro"
+        ],
+        "title": "Jesus Kid",
+        "directed by": "Aly Muritiba",
+        "duration": 88,
+        "rating": 2.9,
+        "vote_count": 542,
+        "type": "lm",
+        "genre": [
+            "Faroeste",
+            "Comédia"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2021,
+        "award_category": [
+            "ator",
+            "júri popular"
+        ],
+        "title": "O Novelo",
+        "directed by": "Cláudia Pinheiro",
+        "duration": 95,
+        "rating": 3.6,
+        "vote_count": 611,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2021,
+        "award_category": [
+            "ator"
+        ],
+        "title": "A Suspeita",
+        "directed by": "Pedro Peregrino",
+        "duration": 92,
+        "rating": 2.93,
+        "vote_count": 343,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Crime",
+            "Suspense"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2021,
+        "award_category": [
+            "fotografia",
+            "júri da crítica"
+        ],
+        "title": "A Primeira Morte de Joana",
+        "directed by": "Cristiane Oliveira",
+        "duration": 91,
+        "rating": 3.42,
+        "vote_count": 949,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2020,
+        "award_category": [
+            "filme",
+            "direção de arte"
+        ],
+        "title": "A Fome de Lázaro",
+        "directed by": "Diego Benevides",
+        "duration": 17,
+        "rating": 3.94,
+        "vote_count": 98,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2019,
+        "award_category": [
+            "diretor",
+            "montagem",
+            "júri da crítica",
+            "especial do júri"
+        ],
+        "title": "Entre nós e o Mundo",
+        "directed by": "Fábio Rodrigo",
+        "duration": 17,
+        "rating": 3.75,
+        "vote_count": 154,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2020,
+        "award_category": [
+            "ator",
+            "roteiro"
+        ],
+        "title": "Fotos Privadas",
+        "directed by": "Marcelo Grabowsky",
+        "duration": 20,
+        "rating": 3.36,
+        "vote_count": 298,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2020,
+        "award_category": [
+            "ator"
+        ],
+        "title": "Quanto Pesa",
+        "directed by": "Breno Nina",
+        "duration": 23,
+        "rating": 3.19,
+        "vote_count": 71,
+        "type": "cm",
+        "genre": [
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2021,
+        "award_category": [
+            "fotografia",
+            "música"
+        ],
+        "title": "Animais na Pista",
+        "directed by": "Otto Cabral",
+        "duration": 9,
+        "rating": 3.33,
+        "vote_count": 215,
+        "type": "cm",
+        "genre": [
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2021,
+        "release_year": 2021,
+        "award_category": [
+            "júri popular"
+        ],
+        "title": "Desvirtude",
+        "directed by": "Gautier Lee",
+        "duration": 15,
+        "rating": 3.11,
+        "vote_count": 720,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2022,
+        "release_year": 2022,
+        "award_category": [
+            "filme",
+            "ator",
+            "júri da crítica"
+        ],
+        "title": "Noites Alienígenas",
+        "directed by": "Sérgio de Carvalho",
+        "duration": 91,
+        "rating": 3.39,
+        "vote_count": 4534,
+        "type": "lm",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2022,
+        "release_year": 2022,
+        "award_category": [
+            "roteiro",
+            "música",
+            "júri popular",
+            "especial do júri"
+        ],
+        "title": "Marte Um",
+        "directed by": "Gabriel Martins",
+        "duration": 115,
+        "rating": 3.89,
+        "vote_count": 30412,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2022,
+        "release_year": 2022,
+        "award_category": [
+            "fotografia",
+            "montagem",
+            "direção de arte"
+        ],
+        "title": "Tinnitus",
+        "directed by": "Gregório Graziosi",
+        "duration": 105,
+        "rating": 3.05,
+        "vote_count": 914,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Romance",
+            "Terror"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2022,
+        "release_year": 2021,
+        "award_category": [
+            "filme",
+            "ator",
+            "júri da crítica"
+        ],
+        "title": "Fantasma Neon",
+        "directed by": "Leonardo Martinelli",
+        "duration": 20,
+        "rating": 3.48,
+        "vote_count": 1155,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Música"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2022,
+        "release_year": 2022,
+        "award_category": [
+            "ator",
+            "fotografia",
+            "direção de arte"
+        ],
+        "title": "Último Domingo",
+        "directed by": "Renan Brandão",
+        "duration": 17,
+        "rating": 3.61,
+        "vote_count": 135,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2022,
+        "release_year": 2021,
+        "award_category": [
+            "roteiro"
+        ],
+        "title": "O Pato",
+        "directed by": "Antônio Galdino",
+        "duration": 11,
+        "rating": 4.36,
+        "vote_count": 75,
+        "type": "cm",
+        "genre": [
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2022,
+        "release_year": 2022,
+        "award_category": [
+            "montagem",
+            "júri popular"
+        ],
+        "title": "O Elemento Tinta",
+        "directed by": [
+            "Iuri Salles",
+            "Luiz Maudonnet"
+        ],
+        "duration": 9,
+        "rating": 4.08,
+        "vote_count": 13,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2022,
+        "release_year": 2021,
+        "award_category": [
+            "especial do júri"
+        ],
+        "title": "Serrão",
+        "directed by": "Marcelo Lin",
+        "duration": 18,
+        "rating": 2.88,
+        "vote_count": 62,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Suspense",
+            "Policial"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2022,
+        "release_year": 2022,
+        "award_category": [
+            "música"
+        ],
+        "title": "Um Tempo Para Mim",
+        "directed by": "Paola Mallmann",
+        "duration": 21,
+        "rating": 3.05,
+        "vote_count": 37,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2023,
+        "award_category": [
+            "filme",
+            "ator",
+            "música",
+            "júri popular"
+        ],
+        "title": "Mussum, o Filmis",
+        "directed by": "",
+        "duration": 122,
+        "rating": 3.51,
+        "vote_count": 8147,
+        "type": "lm",
+        "genre": [
+            "História",
+            "Drama",
+            "Comédia"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2023,
+        "award_category": [
+            "diretor",
+            "fotografia",
+            "montagem",
+            "especial do júri"
+        ],
+        "title": "Mais Pesado é o Céu",
+        "directed by": "Petrus Cariry",
+        "duration": 98,
+        "rating": 3.43,
+        "vote_count": 1332,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2023,
+        "award_category": [
+            "ator",
+            "roteiro",
+            "direção de arte",
+            "júri da crítica"
+        ],
+        "title": "Tia Virgínia",
+        "directed by": "Fábio Meira",
+        "duration": 97,
+        "rating": 3.72,
+        "vote_count": 3017,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2023,
+        "award_category": [
+            "direção de arte"
+        ],
+        "title": "Casa de Bonecas",
+        "directed by": "George Pedrosa",
+        "duration": 16,
+        "rating": 3.41,
+        "vote_count": 224,
+        "type": "cm",
+        "genre": [
+            "Terror",
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2022,
+        "award_category": [
+            "montage",
+            "júri da crítica"
+        ],
+        "title": "Camaco",
+        "directed by": "Breno Alvarenga",
+        "duration": 14,
+        "rating": 3.7,
+        "vote_count": 41,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2022,
+        "award_category": [
+            "roteiro",
+            "ator",
+            "júri popular"
+        ],
+        "title": "Ela Mora Logo Ali",
+        "directed by": [
+            "Fabiano Tertuliano de Barros",
+            "Rafael Rogante"
+        ],
+        "duration": 16,
+        "rating": 3.71,
+        "vote_count": 220,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Família"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2023,
+        "award_category": [
+            "ator"
+        ],
+        "title": "Sabão Líquido",
+        "directed by": [
+            "Fernanda Reis",
+            "Gabriel Faccini"
+        ],
+        "duration": 21,
+        "rating": 3.51,
+        "vote_count": 81,
+        "type": "cm",
+        "genre": [
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2023,
+        "award_category": [
+            "fotografia",
+            "especial do júri"
+        ],
+        "title": "Mãri Hi: A Árvore do Sonho",
+        "directed by": "Morzaniel Ɨramari Yanomami",
+        "duration": 17,
+        "rating": 3.54,
+        "vote_count": 242,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2023,
+        "award_category": [
+            "diretor"
+        ],
+        "title": "Deixa",
+        "directed by": "Mariana Jaspe",
+        "duration": 15,
+        "rating": 3.43,
+        "vote_count": 214,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2023,
+        "release_year": 2023,
+        "award_category": [
+            "filme"
+        ],
+        "title": "Remendo",
+        "directed by": [
+            "Roger Ghil",
+            "GG FÁKỌ̀LÀDÉ"
+        ],
+        "duration": 20,
+        "rating": 3.61,
+        "vote_count": 317,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "filme",
+            "fotografia"
+        ],
+        "title": "Oeste Outra Vez",
+        "directed by": "Érico Rassi",
+        "duration": 97,
+        "rating": 3.8,
+        "vote_count": 13065,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Faroeste"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "diretor"
+        ],
+        "title": "Filhos do Mangue",
+        "directed by": "",
+        "duration": 110,
+        "rating": 2.68,
+        "vote_count": 140,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "ator",
+            "roteiro",
+            "direção de arte",
+            "música",
+            "júri popular"
+        ],
+        "title": "Estômago II: O Poderoso Chef",
+        "directed by": "",
+        "duration": 131,
+        "rating": 2.78,
+        "vote_count": 5458,
+        "type": "lm",
+        "genre": [
+            "Comédia",
+            "Drama",
+            "Crime"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "ator",
+            "júri da crítica"
+        ],
+        "title": "Cidade; Campo",
+        "directed by": "Juliana Rojas",
+        "duration": 120,
+        "rating": 3.29,
+        "vote_count": 2913,
+        "type": "lm",
+        "genre": [
+            "Terror",
+            "Drama",
+            "Mistério"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "montagem"
+        ],
+        "title": "Barba Ensopada de Sangue",
+        "directed by": "",
+        "duration": 108,
+        "rating": 3.28,
+        "vote_count": 256,
+        "type": "lm",
+        "genre": [
+            "Suspense"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "especial do júri"
+        ],
+        "title": "O Clube das Mulheres de Negócios",
+        "directed by": "",
+        "duration": 95,
+        "rating": 2.8,
+        "vote_count": 1685,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Comédia"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "filme",
+            "fotografia",
+            "montagem"
+        ],
+        "title": "Pastrana",
+        "directed by": [
+            "Gabriel Motta",
+            "Melissa Brogni"
+        ],
+        "duration": 15,
+        "rating": 3.57,
+        "vote_count": 225,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "diretor",
+            "direção de arte"
+        ],
+        "title": "Maputo",
+        "directed by": "Lucas Abrahao",
+        "duration": 15,
+        "rating": 3.63,
+        "vote_count": 175,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "roteiro"
+        ],
+        "title": "A Casa Amarela",
+        "directed by": "Adriel Nizer",
+        "duration": 14,
+        "rating": 3.58,
+        "vote_count": 59,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "ator",
+            "música",
+            "especial do júri"
+        ],
+        "title": "Ponto e Vírgula",
+        "directed by": "Thiago Kistenmacker",
+        "duration": 17,
+        "rating": 3.74,
+        "vote_count": 119,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "ator",
+            "júri da crítica"
+        ],
+        "title": "Fenda",
+        "directed by": "Lis Paim",
+        "duration": 23,
+        "rating": 3.99,
+        "vote_count": 143,
+        "type": "cm",
+        "genre": [
+            "Drama",
+            "Família"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2024,
+        "release_year": 2024,
+        "award_category": [
+            "júri popular"
+        ],
+        "title": "Ana Cecília",
+        "directed by": "Julia Regis",
+        "duration": 20,
+        "rating": 3.91,
+        "vote_count": 77,
+        "type": "cm",
+        "genre": [
+            "Ficção"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2025,
+        "release_year": 2025,
+        "award_category": [
+            "filme",
+            "roteiro",
+            "montagem"
+        ],
+        "title": "Cinco Tipos de Medo",
+        "directed by": "Bruno Bini",
+        "duration": 109,
+        "rating": 3.77,
+        "vote_count": 117,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Suspense",
+            "Crime",
+            "Ação"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2025,
+        "release_year": 2025,
+        "award_category": [
+            "diretor",
+            "fotografia",
+            "júri da crítica"
+        ],
+        "title": "Nó",
+        "directed by": "Laís Melo",
+        "duration": 91,
+        "rating": 3.92,
+        "vote_count": 169,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2025,
+        "release_year": 2025,
+        "award_category": [
+            "ator",
+            "direção de arte",
+            "júri popular"
+        ],
+        "title": "Papagaios",
+        "directed by": "Douglas Soares",
+        "duration": 90,
+        "rating": 3.78,
+        "vote_count": 182,
+        "type": "lm",
+        "genre": [
+            "Suspense",
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2025,
+        "release_year": 2025,
+        "award_category": [
+            "ator"
+        ],
+        "title": "Querido Mundo",
+        "directed by": "Miguel Falabella e Hsu Chien",
+        "duration": 95,
+        "rating": 3.21,
+        "vote_count": 69,
+        "type": "lm",
+        "genre": [
+            "Comédia",
+            "Romance",
+            "Drama"
+        ]
+    },
+    {
+        "festival_name": "Festival de Gramado",
+        "festival_year": 2025,
+        "release_year": 2025,
+        "award_category": [
+            "música",
+            "especial do júri"
+        ],
+        "title": "A Natureza das Coisas Invisíveis",
+        "directed by": "Rafaela Camelo",
+        "duration": 90,
+        "rating": 3.82,
+        "vote_count": 1670,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "festival_year": 2015,
+        "release_year": 2015,
+        "title": "Introdução à Música do Sangue",
+        "directed by": "Luiz Carlos Lacerda",
+        "duration": 95,
+        "rating": 1.9,
+        "vote_count": 50,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2015,
+        "release_year": 2015,
+        "title": "O Fim e os Meios",
+        "directed by": "Murilo Salles",
+        "duration": 105,
+        "rating": 2.51,
+        "vote_count": 72,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Política"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2016,
+        "release_year": 2016,
+        "title": "Aquarius",
+        "directed by": "Kleber Mendonça Filho",
+        "duration": 147,
+        "rating": 3.97,
+        "vote_count": 57331,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2016,
+        "release_year": 2016,
+        "title": "O Silêncio do Céu",
+        "directed by": "Marco Dutra",
+        "duration": 102,
+        "rating": 3.35,
+        "vote_count": 2681,
+        "type": "lm",
+        "genre": [
+            "Suspense"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2016,
+        "release_year": 2016,
+        "title": "Tamo Junto",
+        "directed by": "Matheus Souza",
+        "duration": 100,
+        "rating": 3.04,
+        "vote_count": 422,
+        "type": "lm",
+        "genre": [
+            "Comédia"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2017,
+        "release_year": 2017,
+        "title": "João, o Maestro",
+        "directed by": "Mauro Lima",
+        "duration": 117,
+        "rating": 3.24,
+        "vote_count": 414,
+        "type": "lm",
+        "genre": [
+            "Biografia",
+            "Drama",
+            "Música"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2017,
+        "release_year": 2017,
+        "title": "A Fera na Selva",
+        "directed by": [
+            "Paulo Betti",
+            "Eliane Giardini"
+        ],
+        "duration": 90,
+        "rating": 3.3,
+        "vote_count": 100,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2017,
+        "release_year": 2017,
+        "title": "Médico de Monstro",
+        "directed by": "Gustavo Teixeira",
+        "duration": 11,
+        "rating": 3.77,
+        "vote_count": 26,
+        "type": "cm",
+        "genre": [
+            "Ficção"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2017,
+        "release_year": 2016,
+        "title": "Caminho dos Gigantes",
+        "directed by": "Alois Di Leo",
+        "duration": 12,
+        "rating": 3.68,
+        "vote_count": 322,
+        "type": "cm",
+        "genre": [
+            "Ficção",
+            "Música",
+            "Animação"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2018,
+        "release_year": 2018,
+        "title": "Mormaço",
+        "directed by": "Marina Meliande",
+        "duration": 94,
+        "rating": 3.27,
+        "vote_count": 585,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "Ficção",
+            "Terror"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2018,
+        "release_year": 2018,
+        "title": "A Cidade dos Piratas",
+        "directed by": "Otto Guerra",
+        "duration": 80,
+        "rating": 3.63,
+        "vote_count": 736,
+        "type": "lm",
+        "genre": [
+            "Animação"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2019,
+        "release_year": 2018,
+        "title": "A Pedra",
+        "directed by": "Iuli Gerbase",
+        "duration": 20,
+        "rating": 3.24,
+        "vote_count": 63,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2019,
+        "release_year": 2019,
+        "title": "E o que a gente faz agora?",
+        "directed by": "Marina Pontes",
+        "duration": 15,
+        "rating": 3.02,
+        "vote_count": 22,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2019,
+        "release_year": 2019,
+        "title": "O Balido Interno",
+        "directed by": "Eder Deó",
+        "duration": 15,
+        "rating": 3.69,
+        "vote_count": 27,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2019,
+        "release_year": 2019,
+        "title": "Vou Nadar Até Você",
+        "directed by": "Klaus Mitteldorf",
+        "duration": 107,
+        "rating": 2.88,
+        "vote_count": 368,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2019,
+        "release_year": 2019,
+        "title": "Bacurau",
+        "directed by": [
+            "Juliano Dornelles",
+            "Kleber Mendonça Filho"
+        ],
+        "duration": 132,
+        "rating": 3.91,
+        "vote_count": 163395,
+        "type": "lm",
+        "genre": [
+            "Ação",
+            "Aventura",
+            "Mistério"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2019,
+        "release_year": 2019,
+        "title": "Legalidade",
+        "directed by": "Zeca Brito",
+        "duration": 122,
+        "rating": 3.14,
+        "vote_count": 314,
+        "type": "lm",
+        "genre": [
+            "Drama",
+            "História",
+            "Política"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2020,
+        "release_year": 2020,
+        "title": "Por Que Você Não Chora?",
+        "directed by": "Cibele Amaral",
+        "duration": 98,
+        "rating": 3.01,
+        "vote_count": 686,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2022,
+        "release_year": 2022,
+        "title": "A Porta ao Lado",
+        "directed by": "Julia Rezende",
+        "duration": 114,
+        "rating": 2.99,
+        "vote_count": 802,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2022,
+        "release_year": 2020,
+        "title": "O Clube dos Anjos",
+        "directed by": "Angelo Defanti",
+        "duration": 101,
+        "rating": 3.44,
+        "vote_count": 914,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2022,
+        "release_year": 2022,
+        "title": "O Pastor e o Guerrilheiro",
+        "directed by": "José Eduardo Belmonte",
+        "duration": 115,
+        "rating": 3.34,
+        "vote_count": 533,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2022,
+        "release_year": 2021,
+        "title": "Benzedeira",
+        "directed by": [
+            "San Marcelo",
+            "Pedro Olaia"
+        ],
+        "duration": 15,
+        "rating": 3.54,
+        "vote_count": 40,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2022,
+        "release_year": 2022,
+        "title": "Deus Não Deixa",
+        "directed by": "Marçal Vianna",
+        "duration": 20,
+        "rating": 4.02,
+        "vote_count": 173,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2022,
+        "release_year": 2021,
+        "title": "Mas Eu Não Sou Alguém",
+        "directed by": [
+            "Gabriel Duarte",
+            "Daniel Eduardo"
+        ],
+        "duration": 13,
+        "rating": 3.69,
+        "vote_count": 18,
+        "type": "cm",
+        "genre": [
+            "Ficção"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2022,
+        "release_year": 2022,
+        "title": "O Fim da Imagem",
+        "directed by": "Gil Baroni",
+        "duration": 15,
+        "rating": 2.89,
+        "vote_count": 37,
+        "type": "cm",
+        "genre": [
+            "Ficção",
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2022,
+        "release_year": 2021,
+        "title": "Solitude",
+        "directed by": [
+            "Tami Martins",
+            "Aron Miranda"
+        ],
+        "duration": 13,
+        "rating": 3.98,
+        "vote_count": 133,
+        "type": "cm",
+        "genre": [
+            "Animação"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2022,
+        "release_year": 2022,
+        "title": "Tekoha",
+        "directed by": "Carlos Adriano",
+        "duration": 14,
+        "rating": 3.26,
+        "vote_count": 53,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Angela",
+        "directed by": "Hugo Prata",
+        "duration": 104,
+        "rating": 2.5,
+        "vote_count": 4288,
+        "type": "lm",
+        "genre": [
+            "Biografia",
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "O Barulho da Noite",
+        "directed by": "Eva Pereira",
+        "duration": 96,
+        "rating": 3.79,
+        "vote_count": 75,
+        "type": "lm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Uma Família Feliz",
+        "directed by": "José Eduardo Belmonte",
+        "duration": 117,
+        "rating": 3.15,
+        "vote_count": 20672,
+        "type": "lm",
+        "genre": [
+            "Suspense"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Anhangabaú",
+        "directed by": "Lufe Bollini",
+        "duration": 75,
+        "rating": 3.28,
+        "vote_count": 34,
+        "type": "lm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Da Porta Pra Fora",
+        "directed by": "Thiago Foresti",
+        "duration": 84,
+        "rating": 3.15,
+        "vote_count": 13,
+        "type": "lm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Luis Fernando Verissimo: O Filme",
+        "directed by": "Luzimar Stricher",
+        "duration": 120,
+        "rating": 2.86,
+        "vote_count": 14,
+        "type": "lm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Memórias da Chuva",
+        "directed by": "Wolney Oliveira",
+        "duration": 79,
+        "rating": 3.88,
+        "vote_count": 33,
+        "type": "lm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Roberto Farias: Memórias de Um Cineasta",
+        "directed by": "Marise Farias",
+        "duration": 92,
+        "rating": 3.73,
+        "vote_count": 66,
+        "type": "lm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Yãmî Yah-Pá: Fim da Noite",
+        "directed by": "Vladimir Seixas",
+        "duration": 17,
+        "rating": 3.43,
+        "vote_count": 68,
+        "type": "cm",
+        "genre": [
+            "Documentário",
+            "Terror"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Cama Vazia",
+        "directed by": [
+            "Fábio Rogério",
+            "Jean-Claude Bernardet"
+        ],
+        "duration": 6,
+        "rating": 3.26,
+        "vote_count": 159,
+        "type": "cm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2023,
+        "release_year": 2023,
+        "title": "Jussara",
+        "directed by": "Camila Ribeiro",
+        "duration": 9,
+        "rating": 3.51,
+        "vote_count": 81,
+        "type": "cm",
+        "genre": [
+            "Animação"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2024,
+        "release_year": 2024,
+        "title": "Poemaria",
+        "directed by": "Davi Kinski",
+        "duration": 75,
+        "rating": 3.71,
+        "vote_count": 21,
+        "type": "lm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2024,
+        "release_year": 2024,
+        "title": "Toquinho Maravilhoso",
+        "directed by": "Alejandro Berger Parrado",
+        "duration": 95,
+        "rating": 3.19,
+        "vote_count": 8,
+        "type": "lm",
+        "genre": [
+            "Documentário",
+            "Biografia",
+            "Música"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2024,
+        "release_year": 2024,
+        "title": "Mestras",
+        "directed by": [
+            "Aíla",
+            "Roberta Carvalho"
+        ],
+        "duration": 63,
+        "rating": 4.0,
+        "vote_count": 20,
+        "type": "lm",
+        "genre": [
+            "Documentário"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2024,
+        "release_year": 2024,
+        "title": "Castanho",
+        "directed by": [
+            "Adanilo",
+            "Victor Kaleb"
+        ],
+        "duration": 20,
+        "rating": 3.38,
+        "vote_count": 82,
+        "type": "cm",
+        "genre": [
+            "Drama"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    },
+    {
+        "festival_year": 2024,
+        "release_year": 2022,
+        "title": "Movimentos Migratórios",
+        "directed by": "Rogério Cathalá",
+        "duration": 22,
+        "rating": 3.9,
+        "vote_count": 77,
+        "type": "cm",
+        "genre": [
+            "Ficção"
+        ],
+        "festival_name": "Festival de Gramado",
+        "award_category": []
+    }
+]
