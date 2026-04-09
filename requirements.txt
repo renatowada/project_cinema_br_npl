@@ -1,0 +1,12 @@
+pandas
+pyarrow
+unidecode
+python-dotenv
+tqdm
+matplotlib
+seaborn
+langchain-core
+langchain-google-genai
+pydantic
+transformers
+torch
