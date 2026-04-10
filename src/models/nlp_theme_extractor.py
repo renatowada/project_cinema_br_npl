@@ -5,7 +5,6 @@ from tqdm import tqdm
 import warnings
 from dotenv import load_dotenv
 
-
 warnings.filterwarnings("ignore")
 from transformers import pipeline
 
@@ -35,7 +34,7 @@ def extrair_temas():
         print(" ERRO: Coluna 'synopsis' não encontrada no dataframe.")
         return
 
-
+    # Verifica se o token do HuggingFace está disponível
     token_hf = os.getenv("HF_TOKEN")
     
     if not token_hf:
@@ -47,9 +46,14 @@ def extrair_temas():
     
 
     classifier = pipeline(
-        "zero-shot-classification", 
-        model="facebook/bart-large-mnli",
-        token=token_hf
+    "zero-shot-classification", 
+    model="MoritzLaurer/mDeBERTa-v3-base-mnli-xnli", # 'm' de multilingual, para lidar melhor com o português
+                                                     # 'DeBERTa' modelo mais inteligente para entender o contexto com menos esforço computacional
+                                                     # 'v3' versão otimizada para tarefas de classificação
+                                                     # 'base' para um modelo mais leve e rápido
+                                                     # 'mnli' especializado em inferência de linguagem natural, ideal para classificação de texto
+                                                     # 'xnli' validado no xnli, que é o padrão ouro para testar se uma IA entende lógica em múltiplos idiomas
+    token=token_hf
     )
 
 
@@ -86,7 +90,7 @@ def extrair_temas():
     print(f"\n Extração finalizada! Arquivo com temas salvo em: {output_path}")
 
 if __name__ == "__main__":
-    print("="*50)
+    print("-"*50)
     print(" INICIANDO EXTRAÇÃO DE TEMAS NLP ")
-    print("="*50)
     extrair_temas()
+    print("\n FIM DA EXTRAÇÃO DE TEMAS. Rode o script 'gemini_critics.py' para análise crítica via LLM.")

@@ -6,6 +6,7 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
 PROCESSED_DIR = os.path.join(BASE_DIR, 'data', 'processed')
 FINAL_DIR = os.path.join(BASE_DIR, 'data', 'final')
 
+# Função para unificar as bases de dados processadas em um único dataset final, pronto para análise e visualização
 def unificar_bases():
     print("Consolidação final do Dataset...")
     
@@ -14,6 +15,7 @@ def unificar_bases():
         print(" ERRO: Base Master não encontrada.")
         return
     df_final = pd.read_parquet(path_master)
+    df_final = df_final.drop_duplicates(subset=['id_movie']).copy()
     print(f" Master carregada: {len(df_final)} filmes.")
 
     path_synopsis = os.path.join(PROCESSED_DIR, 'dataset_synopsis_with_themes.parquet')
@@ -37,13 +39,15 @@ def unificar_bases():
         df_final = df_final.merge(df_critics, on='id_movie', how='left')
         print(" -> Sentimentos e Tags do Gemini anexados com sucesso.")
 
-    os.makedirs(FINAL_DIR, exist_ok=True)
+    os.makedirs(FINAL_DIR, exist_ok=True) # Garante que a pasta final exista
     output_path = os.path.join(FINAL_DIR, 'dataset_gramado_completo.parquet')
     
     df_final.to_parquet(output_path, index=False)
     print(f"\n Base final consolidada e salva em: {output_path}")
 
+# Ponto de entrada do script
 if __name__ == "__main__":
     print("-"*50)
     print(" CONSTRUINDO DATASET FINAL")
     unificar_bases()
+    print("\n Processo de construção do dataset final concluído. Rode o notebook de análise para gerar os insights e visualizações.")
